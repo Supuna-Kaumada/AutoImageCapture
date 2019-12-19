@@ -1,10 +1,4 @@
-## ChronoSnap
-
-Simple yet intuitive Android application for capturing a sequence of photos at regular intervals.
-
-### Screenshot
-
-![Screenshot](http://i.stack.imgur.com/vm3td.png)
+Simple Android application for capturing a sequence of photos at regular intervals.
 
 ### Features
 
